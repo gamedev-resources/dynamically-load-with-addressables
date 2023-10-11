@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 > 
 # Introduction
 
